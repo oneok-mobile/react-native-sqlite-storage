@@ -1,7 +1,10 @@
-# react-native-sqlite-storage
+# react-native-sqlite-storage (ONEOK)
 SQLite3 Native Plugin for React Native for both Android (Classic and Native), iOS and Windows
+Modified to allow database encryption.
 
 Foundation of this library is based on Chris Brody's Cordova SQLite plugin.
+
+Some of the following information is probably out-of-date.
 
 Features:
   1. iOS and Android supported via identical JavaScript API.
